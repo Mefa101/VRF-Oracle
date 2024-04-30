@@ -1,5 +1,9 @@
 # Oracle Contract
 
+
+https://github.com/Mefa101/VRF-Oracle/assets/141573555/b31b6772-ca87-4f91-8c95-17379df382da
+
+
 ## Overview
 
 The Oracle contract serves as a decentralized data feed system for blockchain applications, particularly those running on the Planq network. This smart contract allows users to request and retrieve updated prices and random numbers, securely and reliably, without relying on external centralized sources.
