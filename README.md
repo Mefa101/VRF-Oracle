@@ -50,5 +50,7 @@ Deployed Contract Consumer Address: [0x787BD599b7A7e3edd44f8eD6c352d68CCdC8aAd2]
 ### Price ID 
 ##Planq Atlas network
 Planq : 0x210f9a73a8d257cc3591528c146a1c6d779ab6377155affc93d03d9325c2ae28
+
 Bitcoin : 0x7a653fd2048f1ad54cc6d88a78236329a7f6d3f5f9ab3f6a18902cfc1958c74e
+
 ethereum : 0x440fed1296b73811a6cf4227d2ac47ffb7bcd3cbcff742f03eccecbae829ea86
